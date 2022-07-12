@@ -13,15 +13,18 @@ Please install Libraries:
 2. opencv-contrib-python
 
 TO RUN CODE:
+
 1. Put images in a folder .
-2. Run stitch.py code.
+
+2. Enter the image name in order of left to right in way of concantenation. Like:
+    Enter the 1 image: S1.jpeg
+    Enter the 2 image: S2.jpeg
+    
+3. Run stitch.py code.
   ```sh
   python stitch.py --image <image folder path> --output <output folder path>
   ```
-4. Enter the image name in order of left to right in way of concantenation. Like:
-    Enter the 1 image: S1.jpeg
-    Enter the 2 image: S2.jpeg
-5. Then, you will get your panorama image as stitch.jpg in your image dataset folder. 
+4. Then, you will get your panorama image as stitch.jpeg in your image dataset folder. 
 
 - Used SIFT to detect feature and then RANSAC, compute Homography and matched points and warp prespective to get final panoramic image.
 
