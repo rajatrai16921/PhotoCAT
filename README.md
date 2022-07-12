@@ -29,6 +29,16 @@ RESULTS:
 
 Result of S1.jpeg, S2.jpeg, S3.jpeg, S4.jpeg and S5.jpeg
 
+![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/S1.jpeg)
+
+![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/S2.jpeg)
+
+![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/S3.jpeg)
+
+![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/S4.jpeg)
+
+![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/S5.jpeg)
+
 ![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/matched_points.jpeg)
 
 ![alt text](https://github.com/rajatrai16921/PhotoCAT/blob/main/dataset/stitch.jpeg)
